@@ -1,5 +1,13 @@
-### Hi there 👋
+### ✨ Bem-Vindo(a) Pessoal! :raised_hands: ✨
 
+- 🔭 I am currently working as a Business Intern at ModalGR
+- 🌱 I'm learning HTML, CSS, JavaScript, Java, C#.
+- 👯 I'm looking to collaborate on Algorithm and Logic Programming.
+- 🤔 I'm looking for help with Front and Back Integrations
+- 💬 Ask me about anything and what I don't know, we seek the information together.
+- 📫 How to reach me: carlasnonaka@gmail.com
+- 😄 Pronouns: She
+- ⚡ Curiosity: I am an extremely hardworking and dedicated woman in what I want and believe in. I love solving challenges and solving problems.
 <!--
 **carlasnonaka/carlasnonaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
