@@ -37,7 +37,7 @@
 )](https://www.facebook.com/carlasueminonaka)
 [![Social](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/channels/Cah#8829)
 [![Social](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/ricardocollin)
+)](https://t.me/carlanonaka)
 
 ![snake gif](https://github.com/carlasnonaka/carlasnonaka/blob/output/github-contribution-grid-snake.gif)
 
