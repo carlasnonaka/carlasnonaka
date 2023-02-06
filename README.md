@@ -1,6 +1,6 @@
 ### ✨ Bem-Vindo(a) Pessoal! :raised_hands: ✨
 
-- 🔭 I am currently working as a Business Intern at ModalGR
+- 🔭 I am currently working as a Analyst at Accenture.
 - 👯 I'm looking to collaborate on Algorithm and Logic Programming.
 - 🤔 I'm looking for help with Front and Back Integrations
 - 💬 Ask me about anything and what I don't know, we seek the information together.
